@@ -1,0 +1,8 @@
+C:\GIT\PlantData Suite\Route\Route\bin\Debug\Route.exe.config
+C:\GIT\PlantData Suite\Route\Route\bin\Debug\Route.exe
+C:\GIT\PlantData Suite\Route\Route\bin\Debug\Route.pdb
+C:\GIT\PlantData Suite\Route\Route\obj\Debug\Route.csproj.AssemblyReference.cache
+C:\GIT\PlantData Suite\Route\Route\obj\Debug\Route.csproj.SuggestedBindingRedirects.cache
+C:\GIT\PlantData Suite\Route\Route\obj\Debug\Route.csproj.CoreCompileInputs.cache
+C:\GIT\PlantData Suite\Route\Route\obj\Debug\Route.exe
+C:\GIT\PlantData Suite\Route\Route\obj\Debug\Route.pdb
